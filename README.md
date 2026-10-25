@@ -6,6 +6,10 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Tailor Book customers, measurements and order details](shop-app-screens.jpg)
+
 ## The need
 
 Tailors kept measurements, orders and delivery dates in notebooks. They needed it all in one place on the phone, safely backed up.
